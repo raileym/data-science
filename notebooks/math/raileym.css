@@ -1,0 +1,30 @@
+.cell .inner_cell {
+    font-size: 18px;
+    line-height: 1.0em;
+}
+.MathJax_Display,
+.MathJax,
+.alert {
+    font-size: 18px;
+}
+.rendered_html hr {
+    height:0.5em;
+    background-color: rgba(175,175,175,0.2);
+    width: 50%;
+    margin: 1em auto;
+}
+center {
+    margin-top: 1em;
+}
+.alert.alert-blank {
+    border:0.5px solid black;
+    padding:1em;
+}
+.alert > p {
+    margin-top:1em;
+}
+.alert > center {
+    margin-top:0;
+    margin-bottom:1em;
+}
+}
